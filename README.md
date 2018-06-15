@@ -1,6 +1,6 @@
 This code was created as an assessment for a company. The description was:
 
-Convertable a text number to a real number
+Convert a text number to a real number
 -----------------------
 Write a class that converts a written number to its equivalent 'real' number. An example number:
 

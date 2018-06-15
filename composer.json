@@ -1,0 +1,23 @@
+{
+    "name": "dennishaarbrink/deonlinefabriek",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Dennis Haarbrink",
+            "email": "dennis@nonmagna.nl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nm\\": "src/",
+            "Tests\\Nm\\": "tests"
+        }
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-master"
+    },
+    "require": {
+        "symfony/console": "^4.0",
+        "phpunit/phpunit": "^7.1"
+    }
+}
